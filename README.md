@@ -46,12 +46,11 @@ npx expo start
 
 ### Home (Following)
 
-![Home Following](/screenshots/comments.png)
+![Home Following](screenshots/following.png)
 
 ### Home (For You)
 
-![Home For You](<img width="828" height="1792" alt="image" src="https://github.com/user-attachments/assets/baae712f-cdfd-48ca-b5a1-c4f0170552c9" />
-)
+![Home For You](screenshots/for-you.png)
 
 ### Comments
 
