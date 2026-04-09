@@ -55,5 +55,4 @@ npx expo start
 
 ### Comments
 
-![Comments](<img width="828" height="1792" alt="image" src="https://github.com/user-attachments/assets/abeeb870-b686-4717-a9bb-d048cc177d6f" />
-)
+![Comments](/screenshots/comments.png)
