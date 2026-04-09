@@ -1,26 +1,18 @@
 # TikTok UI Exam
 
 ## Thong tin sinh vien
-
-- Ho ten: Nguyen Hoang Dung
-- MSSV: 23810310338
+- Ho ten: Vũ Tiến Mạnh
+- MSSV: 23810310375
 - Lop: D18CNPM5
-
-## Mo ta bai lam
-
+## Mo ta
 Project mo phong 3 man hinh TikTok theo file Figma:
-
 - Home (Following)
 - Home (For You)
 - Comments
-
 Dieu huong duoc to chuc nhu sau:
-
 - `Top Tabs Navigator` de chuyen doi giua `Following` va `For You`
 - `Bottom Tabs Navigator` de di chuyen giua `Home` va `Comments`
-
-## Chuc nang man hinh Comments
-
+## Chuc nang man hinh 
 Man hinh `Comments` duoc lam theo huong gan voi trai nghiem TikTok thuc te:
 
 - Mo man hinh comments khi nguoi dung nhan vao icon comment o cum action ben phai video
@@ -35,17 +27,13 @@ Man hinh `Comments` duoc lam theo huong gan voi trai nghiem TikTok thuc te:
 ## Huong dan chay project
 
 1. Cai dependencies:
-
 ```bash
 npm install
 ```
-
 2. Chay Expo:
-
 ```bash
 npx expo start
 ```
-
 3. Mo app bang Expo Go hoac Android/iOS emulator.
 
 ## Cau truc thu muc chinh
@@ -58,12 +46,15 @@ npx expo start
 
 ### Home (Following)
 
-![Home Following](./screenshots/following.png)
+![Home Following](<img width="828" height="1792" alt="image" src="https://github.com/user-attachments/assets/108dcd94-dc9c-4207-adf9-7fe313a1a8fe" />
+)
 
 ### Home (For You)
 
-![Home For You](./screenshots/for-you.png)
+![Home For You](<img width="828" height="1792" alt="image" src="https://github.com/user-attachments/assets/baae712f-cdfd-48ca-b5a1-c4f0170552c9" />
+)
 
 ### Comments
 
-![Comments](./screenshots/comments.png)
+![Comments](<img width="828" height="1792" alt="image" src="https://github.com/user-attachments/assets/abeeb870-b686-4717-a9bb-d048cc177d6f" />
+)
